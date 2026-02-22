@@ -1,6 +1,6 @@
-# Primero configuramos el entorno con las dependencias alineadas a este proyecto.
+# Primero configuramos el entorno con las dependencias alineadas a este proyecto, para ello corremos en terminal lo siguiente (mac).
 
-### Creamos un ambiente virtual, para ello corremos en terminal lo siguiente (mac):
+### Creamos un ambiente virtual:
 * python3 -m venv .venv
 * source .venv/bin/activate
 * python3 -m pip install --upgrade pip
