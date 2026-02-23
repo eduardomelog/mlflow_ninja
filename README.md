@@ -9,3 +9,6 @@
 
 ### Creamos un directorio en donde mlflow registrará nuestros modelos:
 * mkdir mlruns
+
+### Curso completo:
+### https://www.youtube.com/playlist?list=PLQqR_3C2fhUUOmaeowgv4WquvH515zVmo
